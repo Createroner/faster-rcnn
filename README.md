@@ -23,4 +23,5 @@
 
 ## 2、数据的准备工作
 首先数据集应该需要符合VOC格式的要求，一共要包括xml文件和图片文件，将xml文件放在Annotations文件夹下，将图片数据集放在JPEGImages中
-* 1、首先运行
+* 1、生成train.txt, trainval.txt等文件
+* 
